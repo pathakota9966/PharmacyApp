@@ -1,1 +1,2 @@
-# PharmacyApp
+# PharmacyProductApp
+# PharmacyDetail
